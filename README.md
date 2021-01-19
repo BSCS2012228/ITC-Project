@@ -20,7 +20,7 @@
 - Shan Virani (2012228)
 - Razi Ali Valliani (2012222)
 - Hamza Qureshi (2012214)
-- Rithick Kumar (2012223)
+- Rithik Kumar (2012223)
 
 ## Project By Student Of SZABIST KARACHI (Semester 1)
 
