@@ -1,6 +1,6 @@
 # ITC-Project
 
-## Restaurant Menue Billing System
+## Restaurant Menu Billing System
 
 ###### How To Run!
 - Install Python 3.
